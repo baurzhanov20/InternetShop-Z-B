@@ -1,1 +1,1 @@
-# InternetShop-Z&B
+# InternetShop-ZB
